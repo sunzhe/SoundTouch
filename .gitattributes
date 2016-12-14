@@ -1,0 +1,4 @@
+*.swift linguist-language=objective-c
+*.mm linguist-language=objective-c
+*.cpp linguist-language=objective-c
+*.h linguist-language=objective-c
