@@ -11,4 +11,4 @@
  * 第三方类库: SoundTouch (变声处理库)、 lame (MP3编码库)
  *
 
-主要使用框架 soundTouch （音频变声处理） SpeakHere （苹果官方音频解码库） lame （MP3 音频编码库  已处理成支持 arm64）
+主要使用框架 soundTouch （音频变声处理） SpeakHere （苹果官方音频解码库） lame （MP3 音频编码库  已处理成支持 arm64 x86_64) libopencore (arm,wav互转 支持 arm64 x86_64)
